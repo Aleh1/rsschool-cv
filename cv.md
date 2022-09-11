@@ -4,7 +4,7 @@
 email: krytiak@gmail.com
 
 # my skills 
-- git, GitHub
+- Git, GitHub
 - VS Code
 - JS
 - Python
