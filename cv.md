@@ -8,6 +8,7 @@ email: krytiak@gmail.com
 - VS Code
 - JS
 - Python
+- Linux
 
  # language 
  - English - A2
